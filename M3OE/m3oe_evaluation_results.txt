@@ -1,0 +1,17 @@
+--- M3OE 模型评估结果 ---
+
+--- Online ---
+CTR_AUC: 0.7587
+CVR_AUC_POST_CLICK: 0.6374
+AVG_AUC: 0.6981
+
+--- Random ---
+CTR_AUC: 0.6741
+CVR_AUC_POST_CLICK: 0.5841
+AVG_AUC: 0.6291
+
+--- Combined ---
+CTR_AUC: 0.6802
+CVR_AUC_POST_CLICK: 0.5979
+AVG_AUC: 0.6391
+

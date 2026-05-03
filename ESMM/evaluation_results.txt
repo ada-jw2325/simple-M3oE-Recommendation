@@ -1,0 +1,13 @@
+--- ESMM 模型评估结果 ---
+
+--- 线上标准测试集 (Online Standard Test Set) ---
+  - CTR AUC: 0.7629
+  - CVR AUC (点击后): 0.6621
+  - CTCVR AUC: 0.7609
+
+==================================================
+
+--- 随机流量测试集 (Random Test Set) ---
+  - CTR AUC: 0.6760
+  - CVR AUC (点击后): 0.5951
+  - CTCVR AUC: 0.6947

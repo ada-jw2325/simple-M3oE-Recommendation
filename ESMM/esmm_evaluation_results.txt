@@ -1,0 +1,17 @@
+--- ESMM 模型评估结果 ---
+
+--- Online ---
+CTR_AUC: 0.7629
+CVR_AUC_POST_CLICK: 0.6621
+AVG_AUC: 0.7125
+
+--- Random ---
+CTR_AUC: 0.6760
+CVR_AUC_POST_CLICK: 0.5951
+AVG_AUC: 0.6355
+
+--- Combined ---
+CTR_AUC: 0.6833
+CVR_AUC_POST_CLICK: 0.6210
+AVG_AUC: 0.6521
+

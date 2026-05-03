@@ -1,0 +1,17 @@
+--- MTL 模型评估结果 ---
+
+--- Online ---
+CTR_AUC: 0.6252
+CVR_AUC_POST_CLICK: 0.5560
+AVG_AUC: 0.5906
+
+--- Random ---
+CTR_AUC: 0.5365
+CVR_AUC_POST_CLICK: 0.5158
+AVG_AUC: 0.5262
+
+--- Combined ---
+CTR_AUC: 0.5286
+CVR_AUC_POST_CLICK: 0.5245
+AVG_AUC: 0.5266
+

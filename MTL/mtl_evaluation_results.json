@@ -1,0 +1,20 @@
+{
+  "model": "MTL",
+  "results": {
+    "Online": {
+      "ctr_auc": 0.761810094103689,
+      "cvr_auc_post_click": 0.6420779422267713,
+      "avg_auc": 0.7019440181652301
+    },
+    "Random": {
+      "ctr_auc": 0.67985853182453,
+      "cvr_auc_post_click": 0.5878193197794739,
+      "avg_auc": 0.633838925802002
+    },
+    "Combined": {
+      "ctr_auc": 0.684786906094083,
+      "cvr_auc_post_click": 0.6028016682334357,
+      "avg_auc": 0.6437942871637594
+    }
+  }
+}

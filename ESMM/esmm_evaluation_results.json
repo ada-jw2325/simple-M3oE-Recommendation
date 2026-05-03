@@ -1,0 +1,20 @@
+{
+  "model": "ESMM",
+  "results": {
+    "Online": {
+      "ctr_auc": 0.7629203960008739,
+      "cvr_auc_post_click": 0.6621395013042924,
+      "avg_auc": 0.7125299486525831
+    },
+    "Random": {
+      "ctr_auc": 0.6760310820913585,
+      "cvr_auc_post_click": 0.595058830013101,
+      "avg_auc": 0.6355449560522297
+    },
+    "Combined": {
+      "ctr_auc": 0.6832717819383377,
+      "cvr_auc_post_click": 0.621009498573214,
+      "avg_auc": 0.6521406402557759
+    }
+  }
+}

@@ -1,0 +1,17 @@
+--- PLE 模型评估结果 ---
+
+--- Online ---
+CTR_AUC: 0.6247
+CVR_AUC_POST_CLICK: 0.5388
+AVG_AUC: 0.5818
+
+--- Random ---
+CTR_AUC: 0.5385
+CVR_AUC_POST_CLICK: 0.5103
+AVG_AUC: 0.5244
+
+--- Combined ---
+CTR_AUC: 0.5101
+CVR_AUC_POST_CLICK: 0.5147
+AVG_AUC: 0.5124
+

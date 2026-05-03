@@ -1,0 +1,39 @@
+# 数据
+data/
+**/data/
+
+# 处理数据
+**/processed/
+**/processedM3OE/
+
+# 环境
+venv/
+.venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# 缓存
+__pycache__/
+.pytest_cache/
+
+# logs
+*.log
+logs/
+
+# 输出/构建
+/dist
+
+# 模型和大文件
+*.pkl
+*.pth
+*.zip
+*.rar
+
+# 结果/图片
+*.jpg
+
+# checkpoints
+checkpoints/

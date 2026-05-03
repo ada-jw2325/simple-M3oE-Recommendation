@@ -1,0 +1,17 @@
+--- MMoE 模型评估结果 ---
+
+--- Online ---
+CTR_AUC: 0.6307
+CVR_AUC_POST_CLICK: 0.5320
+AVG_AUC: 0.5813
+
+--- Random ---
+CTR_AUC: 0.5471
+CVR_AUC_POST_CLICK: 0.5075
+AVG_AUC: 0.5273
+
+--- Combined ---
+CTR_AUC: 0.5639
+CVR_AUC_POST_CLICK: 0.5461
+AVG_AUC: 0.5550
+
